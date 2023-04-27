@@ -1,0 +1,26 @@
+table {
+  width: 90%;
+  margin: 20px auto;
+}
+
+th {
+  color: white;
+  background-color: #df2e2e;
+  font-weight: bold;
+}
+
+td {
+  height: auto;
+  height: 10px;
+  color: #a02489;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.secondRow td {
+  background-color: #a02489;
+  color: black;
+}
+.secondRow .filmDetails {
+  color: black;
+}/*# sourceMappingURL=style-table.css.map */
